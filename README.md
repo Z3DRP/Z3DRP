@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## About Me👋
+I have really been enjoying web development with Go, React/Vite, and Tailwind. I am especially enjoying the backend side with Go. The consolidate toolchain Go offers is the best. Temple, Htmx and Go templates make it so there are is no need for heavy frameworks like React, I like the idea of simple vanilla Javascript sprinkled around for key functionality. Go is from now on going to be my goto when building out entire projects or just services.
 <!--
 **Z3DRP/Z3DRP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
